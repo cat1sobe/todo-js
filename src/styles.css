@@ -48,3 +48,13 @@ button:hover {
   margin: 10px;
   border-radius: 10px;
 }
+
+.list-row {
+  display: flex;
+  align-items: center;
+  padding-bottom: 1px;
+}
+
+.item {
+  margin-right: 8px;
+}
